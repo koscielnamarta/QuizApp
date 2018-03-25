@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <!--questions and answers: Q1-->
+    <string name="questionOne">What kind of views can you see in the image below?</string>
+    <string name="answer11" translatable="false">ImageView</string>
+    <string name="answer12" translatable="false">TextView</string>
+    <string name="answer13" translatable="false">Button</string>
+    <!--questions and answers: Q2-->
+    <string name="questionTwo">What kind of layout can you see in the image below?</string>
+    <string name="answer21" translatable="false">RelativeLayout</string>
+    <string name="answer22" translatable="false">LinearLayout</string>
+    <!--questions and answers: Q3-->
+    <string name="questionThree">What programming language have you used to make your app interactive?</string>
+    <string name="editTextHint">write here…</string>
+    <!--questions and answers: Q4-->
+    <string name="questionFour">Which of the following are Java variables?</string>
+    <string name="answer41" translatable="false">String</string>
+    <string name="answer42" translatable="false">class</string>
+    <string name="answer43" translatable="false">boolean</string>
+    <!--questions and answers: Q5-->
+    <string name="questionFive">Which view allows users of smaller devices to scroll in an app?</string>
+    <!--questions and answers: Q6 -->
+    <string name="questionSix">Is it a good practice having your text hardcoded?</string>
+    <string name="answer61">yes</string>
+    <string name="answer62">no</string>
+    <!--correct answers Q3 & Q5-->
+    <string name="correctAnswer3V1" translatable="false">Java</string>
+    <string name="correctAnswer3V2" translatable="false">java</string>
+    <string name="correctAnswer5" translatable="false">ScrollView</string>
+    <!--summary-->
+    <string name="summaryThanks">Thank you for taking this test!</string>
+    <string name="summaryScore">You scored</string>
+    <string name="summaryPoints">out of 6 points</string>
+    <string name="summaryToastOne">You need to learn more, but don\'t worry, you still have plenty of time! </string>
+    <string name="summaryToastTwo">You have to refresh some knowledge, but you did good!</string>
+    <string name="summaryToastThree">Great, you\'ve learned a lot! Keep going!</string>
+
+</resources>

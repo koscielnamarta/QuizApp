@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="questionOne">Jakie rodzaje widoków widzisz na obrazku poniżej?</string>
+    <string name="questionTwo">Który rodzaj layoutu widzisz poniżej?</string>
+    <string name="questionThree">Jakiego języka programowania używałeś, żeby Twoja aplikacja była interaktywna?</string>
+    <string name="editTextHint">napisz tutaj...</string>
+    <string name="questionFour">Które z poniższych są zmiennymi w Javie?</string>
+    <string name="questionFive">Jaki widok pozwala przewijać aplikację użytkownikom mniejszych urządzeń?</string>
+    <string name="questionSix">Czy jest dobrą praktyką, by teksty były przypisane na stałe?</string>
+    <string name="answer61">tak</string>
+    <string name="answer62">nie</string>
+    <string name="summaryThanks">Dziękuję za wypełnienie testu!</string>
+    <string name="summaryScore">Twój wynik to</string>
+    <string name="summaryPoints">na 6 punktów</string>
+    <string name="summaryToastOne">Musisz pouczyć się więcej, ale nie martw się, ciągle masz czas!</string>
+    <string name="summaryToastTwo">Musisz odświeżyć trochę wiedzy, ale spisałeś się dobrze!</string>
+    <string name="summaryToastThree">Świetnie, sporo się nauczyłeś! Tak trzymaj!</string>
+</resources>

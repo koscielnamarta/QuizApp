@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <!--normal layout-->
+    <dimen name="marginXS">4dp</dimen>
+    <dimen name="marginS">8dp</dimen>
+    <dimen name="marginM">16dp</dimen>
+    <dimen name="marginL">32dp</dimen>
+
+    <dimen name="textXS">20sp</dimen>
+    <dimen name="textS">24sp</dimen>
+    <dimen name="textM">34sp</dimen>
+    <dimen name="textL">45sp</dimen>
+
+    <dimen name="picture_width">128dp</dimen>
+    <dimen name="picture_height">224dp</dimen>
+
+    <dimen name="scrollView_height">456dp</dimen>
+
+    <dimen name="android_size">104dp</dimen>
+
+    <!--landscape layout-->
+    <dimen name="scrollView_width">456dp</dimen>
+
+    <dimen name="android_size_land">112dp</dimen>
+
+</resources>
